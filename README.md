@@ -143,11 +143,11 @@ Explores how international students finance their education:
 > *Add screenshots of each dashboard page here*
 
 ```markdown
-![Overview](screenshots/overview.png)
-![Trends](screenshots/trends.png)
-![Country Insights](screenshots/country-insights.png)
-![Academic Fields](screenshots/academic-fields.png)
-![Funding](screenshots/funding.png)
+![Overview](screenshots/Screenshot 2026-04-19 134127.png)
+![Trends](screenshots/Screenshot 2026-04-19 134144.png)
+![Country Insights](screenshots/Screenshot 2026-04-19 134203.png)
+![Academic Fields](screenshots/Screenshot 2026-04-19 134222.png)
+![Funding](screenshots/Screenshot 2026-04-19 134239.png)
 ```
 
 ---
